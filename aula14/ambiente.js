@@ -1,5 +1,2 @@
-console.log('Vai começar...')
-for(var c = 1; c <=5; c++) {
-    console.log(c)
-}
-console.log('Fim.')
+let num = [1,2,3,4]
+console.log(`O tamanho é ${num.length}.`)
