@@ -1,2 +1,4 @@
-let num = [1,2,3,4]
-console.log(`O tamanho é ${num.length}.`)
+num = [8, 5, 4, 2]
+for(let pos in num) {
+    console.log(num[pos])
+}
